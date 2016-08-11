@@ -19,7 +19,7 @@ With your team, you will create a project proposal that ties together everything
 
 Create a deck that outlines your team's vision for your third project. How can you meet user needs while also providing a unique vision, based on what users value and what’s happening in the competitive space?
 
-In the last 45 minutes of class, each group will present their pitch. One team member should project the slides on the screen, and everyone should present at least one portion of the pitch. Each group will have 7 minutes to present.
+In the last 45 minutes of class, each group will present their pitch. One team member should project the slides on the screen, and everyone should present at least one portion of the pitch. Each group will have 5 minutes to present.
 
 #### Requirements
 
